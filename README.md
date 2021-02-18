@@ -8,4 +8,8 @@ for picker : yarn add @react-native-picker/picker
 for Input Button : yarn and native-base
 
 
+
+
 TabTwo Contains = Flat List
+
+imported from react-native
